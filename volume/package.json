@@ -24,6 +24,13 @@
           "optional": false
         }
       ]
+    },
+    {
+      "name": "set-default-sink",
+      "title": "Set Default Sink",
+      "subtitle": "Set the default sink",
+      "description": "Set the default sink",
+      "mode": "view"
     }
   ],
   "preferences": [],
