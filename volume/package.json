@@ -19,7 +19,7 @@
       "arguments": [
         {
           "name": "value",
-          "placeholder": "50",
+          "placeholder": "e.g. 50, +10, -10",
           "type": "text",
           "optional": false
         }

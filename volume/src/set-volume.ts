@@ -24,7 +24,6 @@ export default async function NoView(props: { arguments: Arguments }) {
     return;
   }
 
-  const value = percent / 100;
   exec(`wpctl set-volume @DEFAULT_AUDIO_SINK@ ${prefix ? percent + prefix : percent}`, (error) => {
     if (error) {
       showToast({ style: Toast.Style.Failure, title: "Failed to set volume" });
