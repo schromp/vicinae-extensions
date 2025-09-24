@@ -4,6 +4,7 @@
 - [x] set wallpaper directory
 - [x] set animation type
 - [ ] set other animation options
+- [ ] detail view (preview of images)
 
 ## Install and Run
 
